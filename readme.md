@@ -16,4 +16,8 @@ Right now I'm working on cleaner front-end code and learning to manage bigger pr
 
 ## My activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JJ245-JJ&theme=github-compact&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=JJ245-JJ&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+
+<img src="https://streak-stats.demolab.com?user=JJ245-JJ&hide_border=true&theme=github-dark-blue" alt="Contribution streak" />
+
+<img src="https://ghchart.rshah.org/JJ245-JJ" alt="Contribution graph" />
