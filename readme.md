@@ -6,7 +6,7 @@ Web dev student based in Canada. I build small sites and tools, and most of what
 
 I'm studying web development and getting comfortable with Git, JavaScript, and Python. Some repos are class work, some are side projects, and a few are experiments that went further than I planned.
 
-Right now I'm working on cleaner front-end code and learning to manage bigger projects without making a mess of them. If you're an employer reading this: I learn fast, I ship what I start, and I'm not afraid to break something to understand how it works.
+Right now I'm working on cleaner front-end code and getting real practice with Git workflows: branching, pull requests, and fixing merge conflicts the way teams actually do it. If you're an employer reading this: I learn fast, I ship what I start, and I'm not afraid to break something to understand how it works.
 
 ## Tech I use
 
