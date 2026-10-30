@@ -16,7 +16,7 @@ Right now I'm working on cleaner front-end code and getting real practice with G
 
 ## My activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=JC-LU25&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JC-LU25&theme=github_dark" alt="GitHub stats" />
 
 <img src="https://streak-stats.demolab.com?user=JC-LU25&hide_border=true&theme=github-dark-blue" alt="Contribution streak" />
 
